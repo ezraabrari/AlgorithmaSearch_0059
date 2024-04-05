@@ -25,5 +25,7 @@ void input() {
 }
 
 void LinierSearch() {
-
+	char ch;
+	int ctr;
+	int item;
 }
