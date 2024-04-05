@@ -6,5 +6,5 @@ int n;
 int i;
 
 void input() {
-
+	while (true)
 }
