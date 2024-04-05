@@ -62,5 +62,7 @@ void display() {
 }
 
 int main() {
-
+	input();
+	LinierSearch();
+	display();
 }
