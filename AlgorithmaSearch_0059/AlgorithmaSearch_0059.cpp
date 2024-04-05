@@ -55,5 +55,8 @@ void LinierSearch() {
 }
 
 void display() {
-
+	cout << "array element are : ";
+	for (i = 0; i < n; i++)
+		cout << arr[i] << " ";
+	cout << endl;
 }
