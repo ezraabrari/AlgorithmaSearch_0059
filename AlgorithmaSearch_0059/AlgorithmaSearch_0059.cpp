@@ -53,3 +53,7 @@ void LinierSearch() {
 
 	} while ((ch == 'y') || (ch == 'Y'));
 }
+
+void display() {
+
+}
