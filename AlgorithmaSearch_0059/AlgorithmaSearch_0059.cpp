@@ -51,5 +51,5 @@ void LinierSearch() {
 		cin >> ch;
 
 
-	} 
+	} while ((ch == 'y') || (ch == 'Y'));
 }
